@@ -9,6 +9,7 @@
     margin-left: 70px;
     justify-content: center;
 }
+
 .rachel-photo{
     display: flex;
     flex:1 1 90%;
@@ -19,11 +20,11 @@
 .profile{
     width:55%;
     height:auto;
-    box-shadow:-69px -180px 0px -10px rgba(165,204,61,255);
+     box-shadow:-69px -180px 0px -10px rgba(165,204,61,255); 
     position:relative;
     margin-left: 80px;
     background-size: contain;
-    z-index: -2;
+    z-index:-1;
    
 }
 .abt-rachel{

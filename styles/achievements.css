@@ -10,6 +10,11 @@
     position: relative;
     flex-wrap: wrap;
 }
+.topmar{
+    width:30px;
+    height:3px;
+    background-color:rgba(165,204,61,255);
+}
 .proud{
     display: flex;
     justify-content: center;
@@ -19,7 +24,7 @@
     margin-left: 43px;
     font-size: 12px;
     width: 300px;
-    border-top:2px solid rgba(165,204,61,255);
+
 
 }
 
