@@ -13,6 +13,7 @@
 .activities{
     display: flex;
     flex: 1 1 50%;
+    justify-content: end;
 }
 .myside{
     color:  rgba(165,204,61,255);
@@ -23,7 +24,7 @@
 .gallery{
     display: grid;
     grid-template-columns: repeat(7,1fr);
-    grid-template-rows: repeat(8,5vw);
+    grid-template-rows: repeat(8,4vw);
     row-gap: 5px;
 }
 .img-hobby{
